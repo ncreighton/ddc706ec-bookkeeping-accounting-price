@@ -28,8 +28,6 @@ Under 1MB. Zero performance impact on browser speed. Privacy-first: all processi
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://gearreviewer7.gumroad.com/l/atfzu)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/4gM00j7r1cYIbRS1ZicZI0X)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://gearreviewer7.gumroad.com/l/atfzu)
 
 ## License
 
